@@ -21,7 +21,7 @@ export default function Hero() {
             </div>
             <div className="flex flex-col gap-6 min-[400px]:flex-row">
               <a
-                href="/#:~:text=b13o%20もくもく%20LIVE"
+                href="#:~:text=b13o%20もくもく%20LIVE"
                 className="h-16 px-12! flex items-center justify-center gap-2 rounded-xl text-white text-lg font-semibold bg-indigo-600 hover:bg-indigo-700"
               >
                 概要へ

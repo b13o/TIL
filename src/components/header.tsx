@@ -25,7 +25,7 @@ export default function Header() {
             GitHub
           </a>
           <a
-            href="/#:~:text=b13o%20もくもく%20LIVE"
+            href="#:~:text=b13o%20もくもく%20LIVE"
             className="flex text-lg items-center hover:opacity-60"
           >
             <FileText className="h-4 w-4 mr-2" />
