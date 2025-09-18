@@ -5,7 +5,7 @@
 # b13o もくもく LIVE
 
 <p align="left">
-  <img src="https://github.com/first-contributions-ja/first-contributions-ja.github.io/actions/workflows/nextjs.yml/badge.svg" alt="Deploy Next.js site to Pages">
+  <img src="https://github.com/b13o/TIL/actions/workflows/deploy-gh-pages.yml/badge.svg" alt="Deploy React site to Pages">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat" alt="Static Badge">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License MIT">

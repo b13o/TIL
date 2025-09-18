@@ -17,7 +17,7 @@ export default function Header() {
         </div>
         <div className="flex items-center gap-8">
           <a
-            href="https://github.com/b13o"
+            href="https://github.com/b13o/TIL"
             target="_blank"
             className="flex text-lg items-center hover:opacity-60"
           >
@@ -25,7 +25,7 @@ export default function Header() {
             GitHub
           </a>
           <a
-            href="/docs"
+            href="/#:~:text=b13o%20もくもく%20LIVE"
             className="flex text-lg items-center hover:opacity-60"
           >
             <FileText className="h-4 w-4 mr-2" />
