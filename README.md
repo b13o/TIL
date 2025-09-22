@@ -65,13 +65,14 @@
 b13o もくもく LIVE では、常に何かしらのプロジェクトに着手しています;)
 
 - 🚀 2025/9/3: 「b13o もくもく LIVE」の配信を開始！
-- 🚧 〜現在: 「b13o もくもく LIVE」の紹介サイト（ベータ版）を開発中!!
+- 🫐 2025/9/22: 「b13o もくもく LIVE」の紹介サイト（β）を公開!
+- 🚧 〜現在進行中のプロジェクト: Coming Soon!!
 
 <br>
 
 ## 参加方法
 
-### 「b13o もくもく LIVE」への参加
+### ①「b13o もくもく LIVE」への参加
 
 YouTube Live を使用します！
 
@@ -82,7 +83,7 @@ YouTube Live を使用します！
 この勉強会用のハッシュタグも作りました！<br>
 Twitter（X） でのアウトプットや交流用にどうぞ: `#b13oもくもくLIVE`
 
-### プロジェクトへの参加
+### ② プロジェクトへの参加
 
 1. アイスブレイク: まずは X/Discord での「[アウトプット習慣](https://x.com/hashtag/b13oもくもくLIVE)」や[GitHub ディスカッション](https://github.com/b13o/TIL/discussions)に参加し、共同作業を行うための交流を開始しよう！
 2. チュートリアルに参加：[First Contributions JA](https://github.com/first-contributions-ja/first-contributions-ja.github.io) で共同開発の流れを確認してください！
@@ -102,7 +103,7 @@ Twitter（X） でのアウトプットや交流用にどうぞ: `#b13oもくも
 
 ## ライセンス
 
-このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
+このプロジェクトは [MIT License](https://github.com/b13o/TIL/blob/main/LICENSE) のもとで公開されています。
 
 ## 謝辞
 
