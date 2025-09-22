@@ -1,23 +1,6 @@
 import { useEffect, useState } from "react";
 import { getMarkdownContent } from "../lib/markdown";
 
-// const sample = `
-// # 見出し１のテスト
-// これは、マークダウンの表示のテストです！
-
-// ## マークダウンのサンプルです！
-
-// これは、p タグとして表示されます！
-
-// 下記は箇条書きです：
-// - あああ
-// - いいい
-// - ううう
-
-// **どうでしょうか？**
-// 表示確認！
-// `;
-
 const Markdown = () => {
   const [content, setContent] = useState<string>("");
   const [isLoading, setIsLoading] = useState(true);
