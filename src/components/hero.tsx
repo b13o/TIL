@@ -14,7 +14,7 @@ export default function Hero() {
               <h1 className="text-4xl leading-tight font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl ">
                 初心者向け
                 <br />
-                <span className="text-indigo-600">React 作業ライブ。</span>
+                <span className="text-indigo-600">React 作業ライブ</span>
                 <br />
                 一緒に学ぼう！
               </h1>
