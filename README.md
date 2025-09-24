@@ -68,6 +68,8 @@ b13o もくもく LIVE では、常に何かしらのプロジェクトに着手
 - 🫐 2025/9/22: 「b13o もくもく LIVE」の紹介サイト（β）を公開!
 - 🚧 〜現在進行中のプロジェクト: Coming Soon!!
 
+👀 プロジェクト一覧は[こちら](https://b13o.com/projects)！
+
 <br>
 
 ## 参加方法
@@ -88,7 +90,7 @@ Twitter（X） でのアウトプットや交流用にどうぞ: `#b13oもくも
 1. アイスブレイク: まずは X/Discord での「[アウトプット習慣](https://x.com/hashtag/b13oもくもくLIVE)」や[GitHub ディスカッション](https://github.com/b13o/TIL/discussions)に参加し、共同作業を行うための交流を開始しよう！
 2. チュートリアルに参加：[First Contributions JA](https://github.com/first-contributions-ja/first-contributions-ja.github.io) で共同開発の流れを確認してください！
 3. コミュニティが管理する共同プロジェクトへ、参加・貢献できます！
-   - OSS への参加に慣れている場合：ご自由にプロジェクトへの貢献を開始してください！
+   - OSS への参加に慣れている場合：ご自由にプロジェクトへの貢献を開始してください → [プロジェクト一覧](https://b13o.com/projects)
    - 必要なスキルを学びながら参加したい場合：配信や、そのほかの媒体で積極的に関わりましょう！
    - 必要なスキルを教わりながら参加したい場合：[メンバーシップ](https://b13o.com/services/subscription)をご検討ください！
 
