@@ -64,9 +64,11 @@
 
 b13o もくもく LIVE では、常に何かしらのプロジェクトに着手しています;)
 
-- 🚀 2025/9/3: 「b13o もくもく LIVE」の配信を開始！
-- 🫐 2025/9/22: 「b13o もくもく LIVE」の紹介サイト（β）を公開!
-- 🚧 〜現在進行中のプロジェクト: Coming Soon!!
+- 🚀 2025/9/3: 「b13oもくもくLIVE」の配信を開始！
+- 🫐 2025/9/22: 「b13o もくもく LIVE」の紹介サイトを公開!
+- ☕️ 2025/10/8: 「作業配信用の壁紙アプリを公開! 
+- ⚔️ 2025/11/1: 「Blueberry Quest」のβ版を公開! 
+- 〜現在進行中のプロジェクト: Coming Soon 🚧
 
 👀 プロジェクト一覧は[こちら](https://b13o.com/projects)！
 
@@ -83,7 +85,7 @@ YouTube Live を使用します！
 <!-- todo: YouTube からの直接参加も可能です！その際は、Twitter（X） でもお知らせします！ -->
 
 この勉強会用のハッシュタグも作りました！<br>
-Twitter（X） でのアウトプットや交流用にどうぞ: `#b13oもくもくLIVE`
+Twitter（X） でのアウトプットや交流用にどうぞ: `#b13o`
 
 ### ② プロジェクトへの参加
 
@@ -122,4 +124,4 @@ Happy Hacking;) 🫐🌿🎧
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][twttr-share]
 
-[twttr-share]: https://twitter.com/intent/tweet?text=もくもくLIVE配信で、Reactプロジェクトに参加！🫐🌿🎧&url=https://github.com/b13o/TIL&hashtags=b13oもくもくLIVE "Tweet this project"
+[twttr-share]: https://twitter.com/intent/tweet?text=もくもくLIVE配信で、Reactプロジェクトに参加！🫐🌿🎧&url=https://github.com/b13o/TIL&hashtags=b13o "Tweet this project"
