@@ -61,7 +61,7 @@ export default function Hero() {
 
 この勉強会用のハッシュタグも作りました！
 X でのアウトプットや交流用にどうぞ:
-#b13oもくもくLIVE`}</code>
+#b13o`}</code>
                       </pre>
                     </div>
                   </div>
